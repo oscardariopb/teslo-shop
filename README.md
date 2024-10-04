@@ -14,7 +14,13 @@
 docker compose up -d
 ```
 
-6. Levantar la app
+6. Ejecutar Seed
+
+```
+localhost:3000/api/seed
+```
+
+7. Levantar la app
 
 ```
 yarn start:dev
